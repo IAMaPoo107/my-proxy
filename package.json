@@ -7,6 +7,6 @@
   },
   "dependencies": {
     "express": "^4.19.2",
-    "unblocker": "^0.5.1"
+    "unblocker": "latest"
   }
 }
